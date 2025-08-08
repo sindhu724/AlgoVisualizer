@@ -3,7 +3,7 @@
 The *AlgoVisualizer* is a web-based application that allows users to visualize and interact with various sorting and searching algorithms.
 
 
-Click-Here :
+Click-Here : https://sindhu724.github.io/AlgoVisualizer/
 
 ## Features
 
